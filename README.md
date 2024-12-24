@@ -7,6 +7,7 @@
 
 a. Удивительно, но даже при переполнении бакета файлы продолжаются заливаться до какого-то момента
 ![alt text](https://github.com/birmoscow/COT-3/blob/main/srv.jpeg)
+![alt text](https://github.com/birmoscow/COT-3/blob/main/srv2.jpeg)
 
 b. В клиент прилетает ошибка и скрипт сворачивается
 ![alt text](https://github.com/birmoscow/COT-3/blob/main/cl.jpeg)
